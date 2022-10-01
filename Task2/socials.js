@@ -117,7 +117,7 @@ dibyajittripathy_socials = {
   NishaChawla18_socials = {
     "twitter_handle": "",
     "likedin_handle": "nishachawla18",
-    "facebook": " ",
+    "facebook": "",
     "telegram_handle": "",
    },
 ]
